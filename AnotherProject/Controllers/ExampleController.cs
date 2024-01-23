@@ -17,6 +17,9 @@ namespace AnotherProject.Controllers
         }
 
         //Get: localhost:xx/api/example/3
+        //new comment
+         // <summary>
+         // <summart 
         public int Get(int id)
         {
             int result = id / 2;
